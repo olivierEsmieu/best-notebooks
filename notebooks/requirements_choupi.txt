@@ -1,0 +1,7 @@
+-i https://pypi.org/simple
+attrs==21.4.0
+cycler==0.11.0
+fonttools==4.33.3
+iniconfig==1.1.1
+kiwisolver==1.4.2
+matplotlib==3.5.1
